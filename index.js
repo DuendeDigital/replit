@@ -2,6 +2,7 @@ const mySecret = process.env['KEY_TOKEN']
 console.log(mySecret);
 
 var x = 1;
+var y = 2;
 
 const axios = require('axios').default;
 
