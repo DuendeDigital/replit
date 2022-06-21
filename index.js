@@ -4,7 +4,7 @@ console.log(mySecret);
 var x = 1;
 var y = 2;
 
-function dataFeed(data){
+function dataFeedNew(data){
   return data;
 }
 
